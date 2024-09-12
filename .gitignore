@@ -13,6 +13,8 @@ target/
 .idea/dbnavigator.xml
 .idea/workspace.xml
 .idea/misc.xml
+/.idea
+\.idea
 *.iws
 *.iml
 *.ipr
