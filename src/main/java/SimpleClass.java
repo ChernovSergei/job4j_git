@@ -6,6 +6,7 @@ public class SimpleClass {
     public void newChanges() {
 
     }
+
     public void gitStashMethod() {
 
     }
